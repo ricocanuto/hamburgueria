@@ -1,6 +1,6 @@
 import { v4 } from 'uuid'
 
-import User from ' ../models/User'
+import User from '../models/user'
 
 class UserController {
     async store(request, response) {
