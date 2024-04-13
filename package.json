@@ -2,7 +2,7 @@
   "name": "hamburgueria",
   "version": "1.0.0",
   "description": "It's a dev club challenge about an app for a hamburger shop, Using new dev tools and skills.",
-  "main": "src/server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon",
